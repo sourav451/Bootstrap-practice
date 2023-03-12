@@ -56,5 +56,5 @@ address{
 }
 .flex{
     display: flex;
-    gap: 5px;
+    gap: 4px;
 }
