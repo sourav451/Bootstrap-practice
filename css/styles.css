@@ -51,3 +51,10 @@ address{
     left: 0;
     min-height: 300px;
 }
+#reserveModal{
+    color: #0f0f0f;
+}
+.flex{
+    display: flex;
+    gap: 4px;
+}
